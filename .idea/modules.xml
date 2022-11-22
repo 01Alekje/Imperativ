@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Imperativ.iml" filepath="$PROJECT_DIR$/.idea/Imperativ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xerweek1/lectweek1/lectweek1.iml" filepath="$PROJECT_DIR$/xerweek1/lectweek1/lectweek1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neighbours/neighbours.iml" filepath="$PROJECT_DIR$/neighbours/neighbours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xerweek1/xerweek1.iml" filepath="$PROJECT_DIR$/xerweek1/xerweek1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xerweek2/xerweek2.iml" filepath="$PROJECT_DIR$/xerweek2/xerweek2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xerweek3/xerweek3.iml" filepath="$PROJECT_DIR$/xerweek3/xerweek3.iml" />
+    </modules>
+  </component>
+</project>
